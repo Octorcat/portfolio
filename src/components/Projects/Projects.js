@@ -141,7 +141,7 @@ function Projects() {
               imgPath={smartmoney}
               isBlog={false}
               title="Smart Money"
-              description="Super Trend Bot is a specialized Telegram bot designed for automated trading strategies on the Solana network. It offers real-time trade execution, market analysis, and custom alerts, helping users optimize their trading performance."
+              description="Smart Money is a comprehensive platform designed for analyzing and optimizing cryptocurrency investments. It provides users with advanced tools for tracking market trends, portfolio management, and real-time analytics to make informed trading decisions."
               // ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               demoLink="https://smrtmoney.io/"
             />
