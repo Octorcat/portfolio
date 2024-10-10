@@ -130,7 +130,7 @@ function Projects() {
               imgPath={gammaswap}
               isBlog={false}
               title="GammaSwap"
-              description="Super Trend Bot is a specialized Telegram bot designed for automated trading strategies on the Solana network. It offers real-time trade execution, market analysis, and custom alerts, helping users optimize their trading performance."
+              description="GammaSwap is a decentralized trading platform on the Arbitrum network that enables users to swap assets with optimized liquidity. It leverages innovative AMM mechanisms to provide efficient trading and liquidity management for various token pairs."
               // ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               demoLink="https://app.gammaswap.com/trade/arbitrum/0xd63c125b169bc5655f9fdefb47c7d33e622416c7"
             />
